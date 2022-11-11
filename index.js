@@ -1,8 +1,8 @@
 /* Created By Kayla Bot WhatsApp */
 /* WhatsApp Creator Di Bawah */
-/* wa.me/6287705048235 */
-
-const { modul } = require('./module');
+/* wa.me/6283115092814 */
+kami
+const { modul } =  membutuhkan ( './modul' );
 const { baileys, boom, chalk, fs, figlet, FileType, path, pino, process, PhoneNumber } = modul;
 const { Boom } = boom
 const { default: kaylaConnect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, generateWAMessage, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = baileys
